@@ -9,7 +9,7 @@
 ## Redemption
 1. To recieve your code you must message confirming you would like to recieve it & provide a valid discord account id in order to be direct messaged the code securely.
 2. To provide an account you must direct message Feutch or a moderator via Twitch. **The direct message must be from the same account that won the giveaway** and must be via Twitch messaging (this is to prevent fraudulent claims for codes). 
-4. Discord accounts provided **must be unique to each redemption**. This means that if two different Twitch accounts win a giveaway and the same discord account is provided for redemption the second giveaway winner will be disqualified.
+4. Discord accounts provided **must be unique to each redemption**. This means that if two different Twitch accounts win a giveaway and the same discord account is provided for redemption the second giveaway winner will be disqualified. However, if a single Twitch account wins more than once the same discord account can be provided. 
 5. If you no longer wish to accept your code, please indicate so and the code will be kept for a redraw if deemed appropriate. **As soon as a code is MESSAGED this counts as an accepted redemption** (this is because we cannot verify whether the code has been used or not and do not want to risk giving away bad codes). 
 
 # Details
