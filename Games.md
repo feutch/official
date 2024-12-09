@@ -1,0 +1,71 @@
+# Completed Games (On Stream)
+- [Prince of Persia: The Lost Crown](https://www.youtube.com/watch?v=Capeh7RH6S8&list=PLMvZhx4lipDIorMFZAc4-Jv5N8H_tTg4H)
+- [Psychonaughts 2](https://www.youtube.com/watch?v=vllnap-8Agg&list=PLMvZhx4lipDJu1MlZZ9qaepzRcPOtOOR-)
+- [Terraria](https://www.youtube.com/watch?v=oqNkygT3Vwg&list=PLMvZhx4lipDIJ3AszXpXFoFBjP1t1oYTr)
+- Elden Ring
+- Return of the Obra Dinn
+- Half Life 2
+- Half Life
+- Noita
+- Star Wars Jedi Survivor
+- Baldurs Gate 3
+- Signalis
+- Dark Souls 2
+- Sable
+- The Legend of Zelda: Tears of the Kingdom
+- The Forest
+- Dead Space (Remake)
+- Rain World
+- Dying Light
+- Disco Elysium
+- Nioh 2
+- Devil May Cry 5
+- Prey (2016)
+- Halo 
+- Halo 2
+- Halo 3
+- Halo ODST
+- Halo 4
+- Halo Reach
+- Portal
+- Portal 2
+- Hellblade: Senuas Sacrifice
+- SUPERHOT
+- Risk of Rain 2
+- Resident Evil 2
+- Furi
+- Cruelty Squad
+- Outer Wilds
+- We Were Here
+- Ori and the Will of the Wisps
+- Divinity Original Sin 2
+- Psychonaughts
+- A Way Out
+- The Ultimate DOOM
+- Metro Exodus
+- Metro: Last Light
+- Metro: 2033
+- Dishonoured 2
+- Resident Evil Village
+- Hollow Knight
+- DOOM Eternal
+- Star Wars Jedi Fallen Order
+- Resident Evil 7
+- Nioh
+- DOOM (2016)
+
+# Played Games (On stream, incomplete)
+- The Witness
+- Outward
+- Monster Hunter: World
+- Fallout 4
+- Cyberpunk 2077
+- Wasteland 3
+- Stardew Valley
+- Saints Row: The Third
+- Subnautica
+- Elden Ring: Shadow of the Erdtree
+- Valheim
+- We Were Here Together
+- Tiny Tinas Wonderlands
+- Death Stranding
