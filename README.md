@@ -1,6 +1,4 @@
-# Welcome to the official site for Feutch
-
-![Logo](/docs/assets/logolight.png)
+<img src="/docs/assets/logolight.png" width=25% height=25%>
 
 ## [Giveaways](/giveaways.md)
 
