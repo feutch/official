@@ -1,4 +1,6 @@
 # Completed Games (On Stream)
+- [The Entire Ratchet and Clank Series](https://youtube.com/playlist?list=PLMvZhx4lipDLISSqmrLqjiP6CUNyGMOBF&si=x8WGoUhnU2RfXL6N)
+- [Space Marine 2](https://youtube.com/playlist?list=PLMvZhx4lipDKFE2Y4U-mH7NpviUuvkBD8&si=6LOQp_hNi1zmv400)
 - [Prince of Persia: The Lost Crown](https://www.youtube.com/watch?v=Capeh7RH6S8&list=PLMvZhx4lipDIorMFZAc4-Jv5N8H_tTg4H)
 - [Psychonaughts 2](https://www.youtube.com/watch?v=vllnap-8Agg&list=PLMvZhx4lipDJu1MlZZ9qaepzRcPOtOOR-)
 - [Terraria](https://www.youtube.com/watch?v=oqNkygT3Vwg&list=PLMvZhx4lipDIJ3AszXpXFoFBjP1t1oYTr)
