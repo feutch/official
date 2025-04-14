@@ -7,6 +7,7 @@ Changes the background for BRB or Starting Soon screen. Both screens have the sa
 Example usage: `!background hollow_knight` (switches the brb / starting soon screen to hollow_knight)
 
 Here are the arguments 
+
 | Argument         | Game               | Song Count |
 |------------------|--------------------|------------|
 | `hollow_knight`  | Hollow Knight      | 3          |
